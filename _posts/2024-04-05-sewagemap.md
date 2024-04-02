@@ -45,6 +45,13 @@ Can I see the underlying code?
 Yes! 
 
 
+It says it isn't loading historical data, why? 
+------
+- Explain how it works
+- WHen it refreshses
+- Why it may not load
+- Trying to fix...
+
 Why is only the Thames basin shown?
 ------
 
@@ -56,4 +63,6 @@ Yes! YOu can see our
 I think I've spotted an error/bug/mistake, how can I report it? 
 ------
 Thank you, citizen scientists have 
+
+
 
