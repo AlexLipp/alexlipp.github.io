@@ -65,4 +65,7 @@ I think I've spotted an error/bug/mistake, how can I report it?
 Thank you, citizen scientists have 
 
 
+Why is it different to the EIR data?
+------
+tl;dr - We don't know! Its not ideal!
 

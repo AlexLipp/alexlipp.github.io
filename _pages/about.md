@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![River Tilt near Blair Atholl, Scotland](../images/tay.jpg)*River Tay near Blair Atholl, Scotland, UK.*
+![River Tilt near Blair Atholl, Scotland](../images/tay.jpg)
 
 I am an Earth & Environmental Scientist currently based at the University of Oxford in the UK where I hold a Junior Research Fellowship at [Merton College](https://www.merton.ox.ac.uk/people/alexander-lipp). Previously, I completed by undergraduate degree in Natural Sciences at the University of Cambridge and a PhD at the Department of Earth Sciences & Engineering, Imperial College London supervised by Gareth Roberts. I am primarily interested in the geologic, geochemical & anthropogenic processes that influence Earth's surface, now, and over its geological past. I develop [novel numerical methods](/software) which I combine with geochemical, geomorphic & geophysical datasets that I collect in the field. 
 
