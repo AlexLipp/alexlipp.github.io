@@ -5,6 +5,9 @@ main:
         
   - title: "software"
     url: /software/
+
+  - title: "blog"
+    url: /blog/
     
   - title: "cv"
     url: /cv/
