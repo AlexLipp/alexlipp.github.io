@@ -11,7 +11,9 @@ author_profile: true
 {% include base_path %}
 
 
-\* = PhD student (co-)supervision; † = Masters student (co-)supervision; 🟢 = Open Access; 🔒 = Not open access (please email me for a copy)
+\* = PhD student (co-)supervision; † = Masters student (co-)supervision
+
+🟢 = Open-access; 🔒 = Not open-access [**email me for a copy!**]
 
 <!-- **Under Review**   -->
 
@@ -21,12 +23,12 @@ author_profile: true
 **Published**  
 *2025*  
 
-- Tipper, E.T., Bouchez, J., **Lipp, A. G.** and Lupker, M. (2025) 'The geochemistry of fluvial sediments from large rivers: Old problems and new developments.' In: Weis, D and Anbar, A. (eds.) *Treatise on Geochemistry*, 3e. vol. 2, pp. 315-351. DOI[`10.1016/B978-0-323-99762-1.00067-X`](dx.doi.org/10.1016/B978-0-323-99762-1.00067-X)  🔒 
+- Tipper, E.T., Bouchez, J., **Lipp, A. G.** and Lupker, M. (2025) 'The geochemistry of fluvial sediments from large rivers: Old problems and new developments.' In: Weis, D and Anbar, A. (eds.) *Treatise on Geochemistry*, 3e. vol. 2, pp. 315-351. DOI:[`10.1016/B978-0-323-99762-1.00067-X`](dx.doi.org/10.1016/B978-0-323-99762-1.00067-X)  🔒 
 
 *2024*  
 
-- Chrapkiewicz, K., **Lipp, A. G.**, Barron, L., Barnes, R., and Roberts, G. 'Apportioning sources of chemicals of emerging concern along an urban river with inverse modelling' Under review at *Science of the Total Environment*  DOI:[`10.1016/j.scitotenv.2024.172827`](https://doi.org/10.1016/j.scitotenv.2024.172827) 🟢  
-- Barnes, R. and **Lipp, A. G.** 'Apportioning tracer and pollutant sources in drainage networks from nested concentration observations using an efficient convex unmixing scheme' Accepted with Minor Revisions at *Water Resources Research* Preprint DOI:[`10.1029/2023WR036159`](https://doi.org/10.1029/2023WR036159) 🟢  
+- Chrapkiewicz, K., **Lipp, A. G.**, Barron, L., Barnes, R., and Roberts, G. 'Apportioning sources of chemicals of emerging concern along an urban river with inverse modelling' *Science of the Total Environment*  DOI:[`10.1016/j.scitotenv.2024.172827`](https://doi.org/10.1016/j.scitotenv.2024.172827) 🟢  
+- Barnes, R. and **Lipp, A. G.** 'Apportioning tracer and pollutant sources in drainage networks from nested concentration observations using an efficient convex unmixing scheme' *Water Resources Research* Preprint DOI:[`10.1029/2023WR036159`](https://doi.org/10.1029/2023WR036159) 🟢  
 - Walton, C., Rigley, J., **Lipp, A. G.**, Law, R., Suttle, M., Schönbächler, M., Wyatt, M., and Shorttle, O. 'Cosmic dust fertilization of prebiotic chemistry on early Earth' *Nature Astronomy* DOI: [`10.1038/s41550-024-02212-z`](https://doi.org/10.1038/s41550-024-02212-z) 🟢
 
 *2023*  
