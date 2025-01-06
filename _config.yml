@@ -25,10 +25,10 @@ author:
   name             : "Alex Lipp"
   pronouns         : "he/him"  
   bio              : "Earth & Environmental Scientist"
-  location         : "Oxford, UK"
-  employer         : "Merton College, University of Oxford"
+  location         : "London, UK"
+  employer         : "University College London"
   uri              : # URL
-  email            : "alexander.lipp@merton.ox.ac.uk" 
+  email            : "a.lipp@ucl.ac.uk" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=POoJbqoAAAAJ&hl=en"
@@ -43,6 +43,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  bluesky          : "@AlexGLipp.bsky.social" # Replace this with your Bluesky handle
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

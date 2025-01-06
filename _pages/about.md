@@ -9,7 +9,9 @@ redirect_from:
 
 ![River Tilt near Blair Atholl, Scotland](../images/tay.jpg)
 
-I am an Earth & Environmental Scientist based (from 1st January 2025) at University College London, where I am a Lecturer at the [Department of Earth Sciences](https://www.ucl.ac.uk/earth-sciences/). Previously, I was based at the University of Oxford in the UK where I held a Junior Research Fellowship at Merton College. I completed by undergraduate degree in Natural Sciences at the University of Cambridge and a PhD at the Department of Earth Sciences & Engineering, Imperial College London supervised by Gareth Roberts. I am primarily interested in the geologic, geochemical & anthropogenic processes that influence Earth's surface, now, and over its geological past. I develop novel numerical methods which I combine with geochemical, geomorphic & geophysical datasets that I collect in the field. 
+I am an Earth and environmental scientist and a lecturer at the [Department of Earth Sciences](https://www.ucl.ac.uk/earth-sciences/), University College London. Previously, I held a Junior Research Fellowship at Merton College, University of Oxford. I completed my undergraduate degree in Natural Sciences at the University of Cambridge and a PhD at the Department of Earth Sciences & Engineering, Imperial College London. 
+
+I am primarily interested in the geologic, geochemical & anthropogenic processes that influence Earth's surface, now, and over its geological past. I develop novel numerical methods which I combine with geochemical, geomorphic & geophysical datasets that I collect in the field. 
 
 Opportunities
 =====
