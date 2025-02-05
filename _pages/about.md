@@ -16,9 +16,12 @@ I am primarily interested in the geologic, geochemical & anthropogenic processes
 Opportunities
 =====
 
-If you are interested in working with me, please get in touch! I am always looking for enthusiastic and motivated students, post-docs and collaborators.
-
-I am accepting applications for PhD studentships in 2025 via the [NERC TREES DLA](https://www.trees-dla.ac.uk/) doctoral training scheme. I have a project ["Mapping river pollutants in space & time with inverse modelling"](https://www.trees-dla.ac.uk/projects/mapping-river-pollutants-space-time-inverse-modelling) advertised on the TREES website, but I'm also very happy to develop project ideas with motivated students. **The deadline for applications is January 20th 2025 at 5pm.** 
+If you are interested in working with me, please get in touch! I am always looking for enthusiastic and motivated students, post-docs and collaborators. 
+Potential funding opportunties for the UCL Earth Science department are given below:  
+- [Doctoral Studies](https://www.ucl.ac.uk/earth-sciences/research/doctoral-studies) 
+- [Postdoctoral Fellowships](https://www.ucl.ac.uk/earth-sciences/research/research-fellowship-applications)
+- I have a project (["Mapping river pollutants in space & time with inverse modelling"
+](https://www.trees-dla.ac.uk/projects/mapping-river-pollutants-space-time-inverse-modelling)) included on the [TREES DLA](https://www.trees-dla.ac.uk/), and applications open in November/December each year with deadlines the following January. 
 
 Research Themes
 =====
