@@ -23,6 +23,7 @@ author_profile: true
 **Published**  
 *2025*  
 
+- Pryor, E. J., Hall, I. R., Simon, M. H., Andersen, M., Babin, D., **Lipp, A. G.**, Starr, A., and, van der Lubbe, H. J. L. 'Geochemical - mineralogical constraints on the provenance of sediment supplied from South African river catchments draining into the southwestern Indian Ocean' *Geophysics, Geochemistry, Geosystems* DOI:[`10.1029/2024GC011869`](https://doi.org/10.1029/2024GC011869) 🟢
 - Tipper, E.T., Bouchez, J., **Lipp, A. G.** and Lupker, M. (2025) 'The geochemistry of fluvial sediments from large rivers: Old problems and new developments.' In: Weis, D and Anbar, A. (eds.) *Treatise on Geochemistry*, 3e. vol. 2, pp. 315-351. DOI:[`10.1016/B978-0-323-99762-1.00067-X`](dx.doi.org/10.1016/B978-0-323-99762-1.00067-X)  🔒 
 
 *2024*  
