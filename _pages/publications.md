@@ -15,13 +15,22 @@ author_profile: true
 
 🟢 = Open-access; 🔒 = Not open-access [**email me for a copy!**]
 
-<!-- **Under Review**   -->
+**Under Review**  
+
+- (\*) Morris, M. J., Roberts, G. G., Richards, F. D., & **Lipp, A. G.** ‘Seeing through geomorphic complexity to recover tectonics from topography: Inverting landscapes for uplift histories using Wasserstein statistics’. *Journal of Geophysical Research: Earth Surface* (Under Review). Preprint DOI:[`10.22541/essoar.176218123.30728834/v1`](https://doi.org/10.22541/essoar.176218123.30728834/v1) 🟢
+
+- **Lipp, A. G.**, Dawe, J., & Balaji, S. ‘**www.SewageMap.co.uk** and **POOPy**: Open-source tools for understanding and communicating the environmental impacts of combined sewer overflows in real-time’. *Environmental Science & Technology* (Under Review). Preprint DOI:[`10.31223/X5XF1N`](https://doi.org/10.31223/X5XF1N) 🟢
+
+- **Lipp, A. G.** & Dobson, B. ‘Infiltration drives a heavy-tailed distribution of combined sewer overflow spill durations’. *Environmental Research Letters* (Under Review). Preprint DOI:[`10.31223/X57F2T`](https://doi.org/10.31223/X57F2T) 🟢
+
+- Zheng, D., **Lipp, A. G.**, Valdes, P., & Mills, B. J. W. ‘Long-term stability of Earth’s temperature over the Phanerozoic Eon’. *Nature Geoscience* (Under Review) 
 
 
 <!-- **Accepted**   -->
 
 **Published**  
 *2025*  
+- Farrell, U., … **Lipp, A. G.** … Whiteside, J. H., Gill, B. H., Mehra, A. K., Lau, K. V., Planavsky, N., Johnston, D. T., & Sperling, E. A. ‘The Sedimentary Geochemistry and Paleoenvironments Project Phase 2 Data Release: An open data resource for the study of Earth’s environmental history’. *Chemical Geology* DOI:[`10.1016/j.chemgeo.2025.123148`](https://doi.org/10.1016/j.chemgeo.2025.123148) 🔒
 
 - Pryor, E. J., Hall, I. R., Simon, M. H., Andersen, M., Babin, D., **Lipp, A. G.**, Starr, A., and, van der Lubbe, H. J. L. 'Geochemical - mineralogical constraints on the provenance of sediment supplied from South African river catchments draining into the southwestern Indian Ocean' *Geophysics, Geochemistry, Geosystems* DOI:[`10.1029/2024GC011869`](https://doi.org/10.1029/2024GC011869) 🟢
 - Tipper, E.T., Bouchez, J., **Lipp, A. G.** and Lupker, M. (2025) 'The geochemistry of fluvial sediments from large rivers: Old problems and new developments.' In: Weis, D and Anbar, A. (eds.) *Treatise on Geochemistry*, 3e. vol. 2, pp. 315-351. DOI:[`10.1016/B978-0-323-99762-1.00067-X`](dx.doi.org/10.1016/B978-0-323-99762-1.00067-X)  🔒 
