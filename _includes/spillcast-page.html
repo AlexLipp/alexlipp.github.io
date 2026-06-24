@@ -8,31 +8,19 @@
 
 <h2>Live 48-hour forecast</h2>
 
-<img id="spillcast-forecast"
+<!-- src is set directly so the image always loads, even with no JavaScript.
+     The S3 object carries Cache-Control: max-age=300, so browsers refetch the
+     newest forecast every ~5 min with no site rebuild. We deliberately avoid an
+     inline <script> here: Jekyll's `layout: compress` strips newlines, which
+     turns "//" line comments into a bug that swallows the next statement. -->
+<img src="{{ page.plot_url }}"
      alt="48-hour spill probability forecast for {{ page.cso_name }}"
      style="width:100%;max-width:1000px;border:1px solid #ddd;"
-     data-src="{{ page.plot_url }}">
-<noscript>
-  <img src="{{ page.plot_url }}" alt="48-hour spill forecast for {{ page.cso_name }}"
-       style="width:100%;max-width:1000px;border:1px solid #ddd;">
-</noscript>
+     onerror="this.style.display='none';document.getElementById('spillcast-forecast-error').style.display='block';">
 <p id="spillcast-forecast-error" style="display:none;color:#b00;">
   &#9888; The latest forecast image could not be loaded &mdash; it may be
   regenerating. Please check back shortly.
 </p>
-
-<script>
-  (function () {
-    var img = document.getElementById('spillcast-forecast');
-    img.onerror = function () {
-      img.style.display = 'none';
-      document.getElementById('spillcast-forecast-error').style.display = 'block';
-    };
-    // Cache-bust so visitors always fetch the newest forecast, even though this
-    // page is static. The image itself is overwritten in place every 6 hours.
-    img.src = img.getAttribute('data-src') + '?t=' + Date.now();
-  })();
-</script>
 
 <p><a class="btn" href="{{ page.csv_url }}">&#11015; Download forecast data (CSV)</a></p>
 
@@ -46,7 +34,11 @@
 
 <img alt="Reliability time series for {{ page.cso_name }} on the held-out test period"
      style="width:100%;max-width:1000px;border:1px solid #ddd;"
-     src="{{ page.reliability_url }}">
+     src="{{ page.reliability_url }}"
+     onerror="this.style.display='none';document.getElementById('spillcast-reliability-error').style.display='block';">
+<p id="spillcast-reliability-error" style="display:none;color:#b00;">
+  &#9888; The reliability plot is not available yet.
+</p>
 
 {% if page.f1 %}
 <p style="margin-top:0.5em;">

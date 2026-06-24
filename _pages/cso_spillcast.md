@@ -35,9 +35,13 @@ unseen data, and a downloadable forecast table.
   </tbody>
 </table>
 
+<!--
+  Fills the "Last updated" column from the live manifest. This is the only piece
+  that needs the S3 bucket's CORS rule (GET from alexlipp.github.io). The script
+  below uses NO "//" line comments on purpose: Jekyll's `layout: compress` strips
+  newlines, which would merge a "//" comment into the following statement.
+-->
 <script>
-  // Fill the "Last updated" column from the live manifest. This is the only
-  // piece that needs the S3 bucket's CORS rule (GET from alexlipp.github.io).
   (function () {
     var url = "{{ site.spillcast_manifest_url }}";
     if (!url) { return; }
@@ -51,7 +55,7 @@ unseen data, and a downloadable forecast table.
           });
         });
       })
-      .catch(function () { /* leave dashes if the manifest can't be reached */ });
+      .catch(function () { return; });
   })();
 </script>
 
