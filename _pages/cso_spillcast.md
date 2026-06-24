@@ -60,7 +60,5 @@ unseen data, and a downloadable forecast table.
 </script>
 
 <p style="margin-top:1.5em;font-size:smaller;color:#666;">
-  Experimental research output &mdash; not an official water-company product.
-  Built on the <a href="https://github.com/AlexLipp/POOPy">POOPy</a> /
-  <a href="https://www.sewagemap.co.uk/">SewageMap</a> ecosystem.
+  Experimental research output.
 </p>

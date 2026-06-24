@@ -8,5 +8,45 @@
     "permit": "CSSC.1406",
     "slug": "CSSC_1406",
     "name": "Ludgershall"
+  },
+  {
+    "permit": "CTCR.1642",
+    "slug": "CTCR_1642",
+    "name": "Princes Risborough"
+  },
+  {
+    "permit": "CNTD.0023",
+    "slug": "CNTD_0023",
+    "name": "Bicester"
+  },
+  {
+    "permit": "CAWM.0083",
+    "slug": "CAWM_0083",
+    "name": "Middleton Cheney"
+  },
+  {
+    "permit": "CTCR.1835",
+    "slug": "CTCR_1835",
+    "name": "Fleet"
+  },
+  {
+    "permit": "TEMP.2994",
+    "slug": "TEMP_2994",
+    "name": "Washwater"
+  },
+  {
+    "permit": "CSSC.1439",
+    "slug": "CSSC_1439",
+    "name": "Stanton Harcourt"
+  },
+  {
+    "permit": "CNTD.0071",
+    "slug": "CNTD_0071",
+    "name": "Maple Lodge"
+  },
+  {
+    "permit": "CNTW.0360",
+    "slug": "CNTW_0360",
+    "name": "Cholsey"
   }
 ]
