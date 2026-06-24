@@ -70,6 +70,10 @@ author:
 
 
 # Site Settings
+# CSO Spillcast: URL of the forecast manifest on S3 (used by /cso_spillcast/ to
+# show "last updated" times). Must match SPILLCAST_BASE_URL/SPILLCAST_PREFIX in
+# the cso_lstm forecast deployment's publish_params.py.
+spillcast_manifest_url   : "https://alexlipp-cso-spillcast.s3.eu-west-2.amazonaws.com/cso_spillcast/manifest.json"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
